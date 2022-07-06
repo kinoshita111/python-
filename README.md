@@ -1,5 +1,5 @@
 # python-
-ここではPythonを利用して作成したものたちを紹介する
+ここではPythonを利用した成果物を紹介する
 
 ipynb ファイルは，Google Colaboratory 上での動作を想定している．
 
