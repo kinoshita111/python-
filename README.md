@@ -49,7 +49,8 @@ plane，car，bird，cat，deer，dog，frog，horse，ship，truck　という�
 
 ### ・物体認識器.ipynb
 
-YOLO v3 を利用して，サンプル画像で物体認識を行った．<br>オープンソースのCNNであるdarknetをcloneし，YOLO v3のweightをダウンロードすることで実装した．<br>サンプル画像はキリンとシマウマがうつっているものだったが，物体認識の結果，giraffeとzebraとしてそれぞれうまく認識されていた。
+YOLO v3 を利用して，サンプル画像で物体認識を行った．<br>オープンソースのCNNであるdarknetをcloneし，YOLO v3のweightをダウンロードすることで実装した．
+
 
 ### ・動作認識器.ipynb
 
